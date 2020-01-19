@@ -19,6 +19,7 @@ https://insights.stackoverflow.com/survey
 
 ## Project Motivation <a name="motivation"></a></br>
 This is an Udacity Nanodegree project. I had tried to analyze using CRISP-DM approach and interpret few data areas like and derrived conclusions around it.</br>
+
 -- Most commonly used programming languages, Databases and Platforms?</br>
 -- Most desired/wanted programming languages, Databses and Platforms?</br>
 -- How can we see the relation between most commonly used progarmming languages, Databases and Platforms with that of most desired ones?
