@@ -28,7 +28,8 @@ This is an Udacity Nanodegree project. I had tried to analyze and interpret few 
 **Write_Blog_post_analysis.ipynb**: Notebook containing the data analysis. </br> 
 
 ## Results <a name="results"></a></br>
-The main findings of the code can be found at the post available at below link.
+The main findings of the code can be found at the post available at below link.</br> 
+https://medium.com/@iprash31/developers-mindset-in-india-regarding-programming-language-databases-platforms-71b8cbdcace
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a></br>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available at below link:</br>
